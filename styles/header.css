@@ -8,7 +8,7 @@
 }
 
 .cabeçalho {
-    background-color: var(--branco);
+    background-color: var(--preto);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -38,16 +38,16 @@
 .lista-menu__titulo,
 .lista-menu__item {
     padding: 1em;
-    background-color: var(--branco);
+    background-color: var(--preto);
 }
 
 .lista-menu__titulo {
-    color: var(--laranja);
+    color: var(--roxo);
     font-weight: 700;
 }
 
 .lista-menu__link {
-    background: var(--azul-degrade);
+    background: var(--branco-azulado);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
